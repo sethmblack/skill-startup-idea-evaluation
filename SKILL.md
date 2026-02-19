@@ -4,7 +4,7 @@ description: Evaluate startup ideas using Paul Graham's framework for organic id
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5049
+  version: 1.0.5050
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - startup-idea-evaluation
